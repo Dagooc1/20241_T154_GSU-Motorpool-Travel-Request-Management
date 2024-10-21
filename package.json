@@ -1,0 +1,16 @@
+{
+  "name": "20241_t154_gsu-motorpool-travel-request-management",
+  "version": "1.0.0",
+  "description": "TRAVEL REQUEST MANAGEMENT",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Dagooc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }, "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
