@@ -8,7 +8,7 @@ user.post('/SignIn/:Office_Code', function(req, res) {
 
 // Sign In using Email that already embedded with an Office Code
 user.post('/SignIn/:Email', function(req, res) { 
-
+   
 });
 
 // Sign Up with Email that will embedded with an Office Code
@@ -17,7 +17,7 @@ user.post('/SignUp/:Email', function(req, res) {
 });
 
 // Dashbord of Users uniquely identified by Office Code
-user.get('/:Office_Code', function(req, res) { 
+user.get('/Dashboard/:Office_Code', function(req, res) { 
 
 });
 

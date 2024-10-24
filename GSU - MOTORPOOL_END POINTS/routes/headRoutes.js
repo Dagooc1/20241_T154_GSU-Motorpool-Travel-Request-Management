@@ -3,11 +3,11 @@ const head = express.Router();
 
 // Sign In using Office Code
 head.post('/SignIn/:Office_Code', function(req, res) {
-
+    
 });
 
 // Dashbord of Head authenticate by Office Code
-head.get('/:Office_Code', function(req, res) {
+head.get('/Dashboard/:Office_Code', function(req, res) {
 
 });
 
