@@ -11,17 +11,12 @@ user.post('/SignIn/:Email', function(req, res) {
 
 });
 
-// Sign Up with Office Code
-user.post('/SignUp/:Office_Code', function(req, res) {
-
-});
-
 // Sign Up with Email that will embedded with an Office Code
 user.post('/SignUp/:Email', function(req, res) { 
 
 });
 
-// Dashbord of Users uniquely by Office Code
+// Dashbord of Users uniquely identified by Office Code
 user.get('/:Office_Code', function(req, res) { 
 
 });
