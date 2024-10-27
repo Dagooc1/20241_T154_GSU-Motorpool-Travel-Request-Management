@@ -1,0 +1,37 @@
+{
+    "travel_request":[{
+        "_id": "671e58cba786f6429b3e5bc2",
+        "request_id": 1,
+        "user_id": 1,
+        "department": "",
+        "position": "",
+        "travel_purpose": "",
+        "destination": "",
+        "travel_start_date": "2024-12-13T16:00:00.000+00:00",
+        "travel_end_date": "2024-12-13T16:00:00.000+00:00",
+        "passenger_count": 23,
+        "vehicle_requested": "",
+        "special_requirements": "",
+        "status": "",
+        "submission_date": "2024-12-13T16:00:00.000+00:00",
+        "approval_notes": ""
+    },{
+        "_id": "671e58cba786f6429b3e5bc3",
+        "request_id": 1,
+        "user_id": 1,
+        "department": "",
+        "position": "",
+        "travel_purpose": "",
+        "destination": "",
+        "travel_start_date": "2024-12-13T16:00:00.000+00:00",
+        "travel_end_date": "2024-12-13T16:00:00.000+00:00",
+        "passenger_count": 23,
+        "vehicle_requested": "",
+        "special_requirements": "",
+        "status": "",
+        "submission_date": "2024-12-13T16:00:00.000+00:00",
+        "approval_notes": ""
+    }
+    
+    ]
+}
