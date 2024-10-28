@@ -1,0 +1,37 @@
+{
+    "authrity_to_travel":[{
+        "_id": "671e5916b8094531590d7034",
+        "authority_id": 1,
+        "request_id": 1,
+        "approving_supervisor_id": 2,
+        "head_approval_id": 1,
+        "approval_date_supervisor": "2024-12-11T16:00:00.000+00:00",
+        "approval_date_head": "2024-12-11T00:00:00.000+00:00",
+        "travel_authority_number": "",
+        "vehicle_assignment": "1",
+        "driver_assigned": "",
+        "trip_ticket_number": 1,
+        "travel_schedule": "2024-12-11T00:00:00.000+00:00",
+        "notifications_sent": true,
+        "approval_status": "",
+        "comments": ""
+    },{
+        "_id": "671e5916b8094531590d7035",
+        "authority_id": 1,
+        "request_id": 1,
+        "approving_supervisor_id": 2,
+        "head_approval_id": 1,
+        "approval_date_supervisor": "2024-12-11T16:00:00.000+00:00",
+        "approval_date_head": "2024-12-11T00:00:00.000+00:00",
+        "travel_authority_number": "",
+        "vehicle_assignment": "1",
+        "driver_assigned": "",
+        "trip_ticket_number": 1,
+        "travel_schedule": "2024-12-11T00:00:00.000+00:00",
+        "notifications_sent": true,
+        "approval_status": "",
+        "comments": ""
+    }
+    
+    ]
+}

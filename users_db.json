@@ -1,0 +1,25 @@
+{
+    "users":[{
+        "_id": "671e500a2cf5eb4fb31d7e62",
+        "user_id": "",
+        "name": "",
+        "office_code": "",
+        "email": "",
+        "position": "",
+        "department": "",
+        "role": "",
+        "password": ""
+    },{
+        "_id": "671e500a2cf5eb4fb31d7e63",
+        "user_id": "",
+        "name": "",
+        "office_code": "",
+        "email": "",
+        "position": "",
+        "department": "",
+        "role": "",
+        "password": ""
+    }
+    
+    ]
+}

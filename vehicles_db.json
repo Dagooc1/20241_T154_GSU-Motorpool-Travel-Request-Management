@@ -1,0 +1,17 @@
+{
+    "vehicles":[{
+        "_id": "671e5afeb8094531590d7036",
+        "vehicle_id": "",
+        "vehicle_type": "",
+        "status": "",
+        "travel_status": ""
+    },
+    {
+        "_id": "671e5afeb8094531590d7037",
+        "vehicle_id": "",
+        "vehicle_type": "",
+        "status": "",
+        "travel_status": ""
+    }
+    ]
+}
