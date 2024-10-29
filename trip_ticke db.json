@@ -1,0 +1,47 @@
+{
+    "trip_ticket":[
+        {
+            "_id": "67205f199df41a328efaecc1",
+            "vehicle_id": "",
+            "driver_name": "",
+            "vehicle": "",
+            "destination": "",
+            "passengers": "",
+            "approved_by": "",
+            "arrival_time": "",
+            "arrival_time1": "",
+            "authority_id": 1,
+            "date_to_used": "",
+            "departure_time": "",
+            "departure_time1": "",
+            "prepared_by": "",
+            "travel_chargeable": "",
+            "request_id": 1,
+            "requestor": "",
+            "driver_id": "",
+            "chairperson": ""
+          },{
+            "_id": "67205f199df41a328efaecc2",
+            "vehicle_id": "",
+            "driver_name": "",
+            "vehicle": "",
+            "destination": "",
+            "passengers": "",
+            "approved_by": "",
+            "arrival_time": "",
+            "arrival_time1": "",
+            "authority_id": 1,
+            "date_to_used": "",
+            "departure_time": "",
+            "departure_time1": "",
+            "prepared_by": "",
+            "travel_chargeable": "",
+            "request_id": 1,
+            "requestor": "",
+            "driver_id": "",
+            "chairperson": ""
+          }
+          
+          
+    ]
+}
